@@ -1,10 +1,10 @@
-#H1 Scope of the Personas project
+## Scope of the Personas project
 
 Scope: To define the translational workforce, including clearly identified and defined roles. Develop a portfolio of personas to represent these roles.
 
 Timeline: Biweekly meetings for roughly six months, February through August 2019
 
-#H2 Goals/Objectives
+### Goals/Objectives
 1. Identify relevant roles in CTSAs, informatics, data science, etc. through a literature search and interviews
 2. Evaluate/discuss/design a persona template based on existing examples
 3. Develop 1-pagers on each persona about that “person” – their job, motivations, pain points, and the types of data, software tools, training resources, etc. that each persona would want to access
@@ -12,7 +12,7 @@ Timeline: Biweekly meetings for roughly six months, February through August 2019
 5. Develop exemplar use cases and documentation to support use of the personas.
 6. Post with documentation and a mechanism for ongoing input from the broader CTS community
 
-#H3 Outputs
+### Outputs
 1.	The Personas 1-pager
 2. 	Bibliography of sources on the CTS workforce
 3. 	Engagement and outreach to the CTSA hubs
