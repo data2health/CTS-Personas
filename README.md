@@ -19,7 +19,7 @@ Timeline: Biweekly meetings for roughly six months, February through August 2019
 * Post with documentation and a mechanism for ongoing input from the broader CTS community
 
 ## Outputs
-*	  Personas 1-pager template
-*   Set of Persona 1-pagers, spanning the translational workforce
-* 	Bibliography of sources on the CTS workforce
-* 	Engagement and outreach to the CTSA hubs
+* Personas 1-pager template
+* Set of Persona 1-pagers, spanning the translational workforce
+* Bibliography of sources on the CTS workforce
+* Engagement and outreach to the CTSA hubs
