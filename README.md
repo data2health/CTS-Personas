@@ -18,6 +18,13 @@ Timeline: Biweekly meetings for roughly six months, February through August 2019
 * Develop exemplar use cases and documentation to support use of the personas.
 * Post with documentation and a mechanism for ongoing input from the broader CTS community
 
+## Contact Person
+
+| **Point person (github handle)**  | **Site** | **Program Director** |
+| ---| --- | --- |
+| Sara Gonzales (@saragon02) | Northwestern | Melissa Haendel (@mellybelly)  |
+
+
 ## Deliverables
 * Personas 1-pager template
 * Set of Persona 1-pagers, spanning the translational workforce
