@@ -34,7 +34,7 @@ Timeline: Biweekly meetings for roughly six months, February through August 2019
 ___________________________________________________
 ## Get involved
 
-We encourage the community to get involved. To get involved, please [onboard using this form](bit.ly/cd2h-onboarding-form).
+We encourage the community to get involved. To get involved, please [onboard using this form](http://bit.ly/cd2h-onboarding-form)
 ___________________________________________
 
 ## Working documents
