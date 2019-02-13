@@ -21,6 +21,7 @@ Timeline: Biweekly meetings for roughly six months, February through August 2019
 ## Deliverables
 * Personas 1-pager template
 * Set of Persona 1-pagers, spanning the translational workforce
+* User guide for employing the Personas with sample use cases
 * Bibliography of sources on the CTS workforce
 * Engagement and outreach to the CTSA hubs
 ___________________________________________________
