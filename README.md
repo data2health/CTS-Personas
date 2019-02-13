@@ -18,8 +18,13 @@ Timeline: Biweekly meetings for roughly six months, February through August 2019
 * Develop exemplar use cases and documentation to support use of the personas.
 * Post with documentation and a mechanism for ongoing input from the broader CTS community
 
-## Outputs
+## Deliverables
 * Personas 1-pager template
 * Set of Persona 1-pagers, spanning the translational workforce
 * Bibliography of sources on the CTS workforce
 * Engagement and outreach to the CTSA hubs
+___________________________________________________
+## Get involved
+
+We encourage the community to get involved. To get involved, please [onboard using this form] (bit.ly/cd2h-onboarding-form).
+___________________________________________
