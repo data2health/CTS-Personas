@@ -26,5 +26,13 @@ Timeline: Biweekly meetings for roughly six months, February through August 2019
 ___________________________________________________
 ## Get involved
 
-We encourage the community to get involved. To get involved, please [onboard using this form] (bit.ly/cd2h-onboarding-form).
+We encourage the community to get involved. To get involved, please [onboard using this form](bit.ly/cd2h-onboarding-form).
 ___________________________________________
+
+## Working documents
+
+The project [Google Drive folder](https://drive.google.com/drive/folders/1LaT73sENCsZ3Y9IaeNSfsLseKxj3fmdv?usp=sharing) is accessible to onboarded participants.
+_____________________
+
+## Slack room
+[The Personas Slack room[(https://cd2h.slack.com/?redir=%2Fmessages%2FCE75A2EF3)  is accessible to onboarded participants. You will not automatically be added to Slack, please join via the link above.
