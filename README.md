@@ -35,4 +35,4 @@ The project [Google Drive folder](https://drive.google.com/drive/folders/1LaT73s
 _____________________
 
 ## Slack room
-[The Personas Slack room[(https://cd2h.slack.com/?redir=%2Fmessages%2FCE75A2EF3)  is accessible to onboarded participants. You will not automatically be added to Slack, please join via the link above.
+[The Personas Slack room](https://cd2h.slack.com/?redir=%2Fmessages%2FCE75A2EF3) is accessible to onboarded participants. You will not automatically be added to Slack, please join via the link above.
