@@ -19,8 +19,7 @@ We propose to develop a CTS Persona Portfolio to represent the diverse roles in 
 
 ## Team Members
 
-See team members page.
-
+See [team members page.](https://github.com/data2health/CTS-Personas/team.md)
 
 ## Deliverables
 * Personas 1-pager template
