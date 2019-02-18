@@ -4,25 +4,22 @@
 This project will encompass and describe the diversity of roles in the clinical and translational science ecosystem. By identifying CTS roles, establishing a persona to represent each role, and providing each persona with a profile, we will document the needs, motivations, goals, and pain points in CTS roles that will be used to inform software development, use cases, teaching materials, and more for the CTSA community. 
 _______________
 
-# Scope of the Personas project
+## Problem Statement
 
-Scope: To define the translational workforce, including clearly identified and defined roles. Develop a portfolio of personas to represent these roles.
+The concept of the translational workforce is an important one and plays a prominent role in the work and communication of CTSA Program hubs, NCATS, and beyond. However, to date, a defined list of translational workforce roles in CTS does not exist. Here, we aim to better define the specific roles included in the translational workforce, establish a set of personas to reflect those roles, construct a portfolio of these persona profiles, and disseminate broadly to the CTSA program and to the CD2H for use in development of use cases, communications, training materials, and more.
 
-Timeline: Biweekly meetings for roughly six months, February through August 2019
-
-## Goals/Objectives
-* Identify relevant roles in CTSAs, informatics, data science, etc. through a literature search and interviews
-* Evaluate/discuss/design a persona template based on existing examples
-* Develop 1-pagers on each persona about that “person” – their job, motivations, pain points, and the types of data, software tools, training resources, etc. that each persona would want to access
-* Get input from the iDTF and other DTFs, administrators, project members, etc.
-* Develop exemplar use cases and documentation to support use of the personas.
-* Post with documentation and a mechanism for ongoing input from the broader CTS community
+## Project Description 
+We propose to develop a CTS Persona Portfolio to represent the diverse roles in CTS. The CTS personas will reflect the spectrum of translation and the diversity of roles required for successful translation at the local hub level and span across the translational signposts as defined by NCATS of Basic Research →  Pre-Clinical Research → Clinical Research → Clinical Implementation → Public Health. By compiling lists of CTS position descriptions and roles, completing research elucidating the needs, motivations, goals, technological proficiency and pain points of those occupying these roles, and condensing the research into easy to understand, one-page Personas profiles, we hope to assist and inform CTSA program sites, partner sites, and beyond in developing sofware solutions, training and engagement materials, and more.
 
 ## Contact Person
 
 | **Point person (github handle)**  | **Site** | **Program Director** |
 | ---| --- | --- |
 | Sara Gonzales (@saragon02) | Northwestern | Melissa Haendel (@mellybelly)  |
+
+## Team Members
+
+See team members page.
 
 
 ## Deliverables
