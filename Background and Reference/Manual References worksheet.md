@@ -7,3 +7,5 @@ Electronic Health Record Association, Persona Library, Hospital Nurse as example
 The Commonwealth Fund, "Personas for Caregivers of High-Needs Patients", https://www.commonwealthfund.org/publications/2019/jan/personas-caregivers-high-need-patients
 
 Give Good UX, "The Easy Way to Enhance User Personas: Tips, Tricks and Two Free Templates" by Joe Natoli, https://www.givegoodux.com/creating-better-user-personas-tips-templates/
+
+Impact BND, "30 Buyer Persona Questions to Ask In Your 2019 Persona Interviews" (interview email template & methodolgy), 30 Buyer Persona Questions to Ask In Your 2019 Persona Interviews
