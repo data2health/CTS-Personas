@@ -9,3 +9,5 @@ The Commonwealth Fund, "Personas for Caregivers of High-Needs Patients", https:/
 Give Good UX, "The Easy Way to Enhance User Personas: Tips, Tricks and Two Free Templates" by Joe Natoli, https://www.givegoodux.com/creating-better-user-personas-tips-templates/
 
 Impact BND, "30 Buyer Persona Questions to Ask In Your 2019 Persona Interviews" (interview email template & methodolgy), https://www.impactbnd.com/blog/buyer-persona-questions-to-ask-in-your-persona-interviews
+
+Trew Marketing, "Buyer Personas: 8 Questions to Profile your Customer", https://www.trewmarketing.com/smartmarketingblog/best-practices/define-buyer-personas-content-planning-lead-nurturing
