@@ -15,7 +15,7 @@ We propose to develop a CTS Persona Portfolio to represent the diverse roles in 
 
 | **Point person (github handle)**  | **Site** | **Program Director** |
 | ---| --- | --- |
-| Sara Gonzales (@saragon02) | Northwestern | Justin Guinney (@jguinney)  |
+| Sara Gonzales (@saragon02) | Northwestern | Melissa Haendel (@mellybelly)  |
 
 ## Leads
 
