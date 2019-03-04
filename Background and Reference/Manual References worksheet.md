@@ -17,3 +17,5 @@ Goltz, Shlomo, "Provisional Personas Workshop", https://www.slideshare.net/TheCo
 Ashida, et. al., "Interview Checklist", https://methods.18f.gov/interview-checklist/
 
 Maier, "Build empathy with stakeholder interviews, parts I and II", https://18f.gsa.gov/2016/06/20/build-empathy-with-stakeholder-interviews-part-1-preparation/; https://18f.gsa.gov/2016/07/22/building-empathy-with-stakeholder-interviews-part-2-conversation/
+
+Portigal, "Interviewing Users", https://www.safaribooksonline.com/library/view/interviewing-users/9781457102851/
