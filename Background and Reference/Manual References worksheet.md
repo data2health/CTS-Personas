@@ -23,3 +23,5 @@ Portigal, "Interviewing Users", https://www.safaribooksonline.com/library/view/i
 Perfetti, "User Research Fundamentals for Designers", https://www.safaribooksonline.com/videos/user-research-fundamentals/9781771373982/9781771373982-video213752
 
 Bacon, "Death to Personas! Long Live Personas!", https://www.slideshare.net/ebacon/death-to-personas-long-live-personas-presentation/
+
+Mulder, "The User is Always Right: Making Personas Work for your Site”, http://www.slideshare.net/MulderMedia/the-user-is-always-right-making-personas-work-for-your-site
