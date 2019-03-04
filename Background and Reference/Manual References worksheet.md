@@ -13,3 +13,7 @@ Impact BND, "30 Buyer Persona Questions to Ask In Your 2019 Persona Interviews" 
 Trew Marketing, "Buyer Personas: 8 Questions to Profile your Customer", https://www.trewmarketing.com/smartmarketingblog/best-practices/define-buyer-personas-content-planning-lead-nurturing
 
 Goltz, Shlomo, "Provisional Personas Workshop", https://www.slideshare.net/TheConartist/provisional-persona-workshop-10
+
+Ashida, et. al., "Interview Checklist", https://methods.18f.gov/interview-checklist/
+
+Maier, "Build empathy with stakeholder interviews, parts I and II", https://18f.gsa.gov/2016/06/20/build-empathy-with-stakeholder-interviews-part-1-preparation/; https://18f.gsa.gov/2016/07/22/building-empathy-with-stakeholder-interviews-part-2-conversation/
