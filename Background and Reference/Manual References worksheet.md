@@ -21,3 +21,5 @@ Maier, "Build empathy with stakeholder interviews, parts I and II", https://18f.
 Portigal, "Interviewing Users", https://www.safaribooksonline.com/library/view/interviewing-users/9781457102851/
 
 Perfetti, "User Research Fundamentals for Designers", https://www.safaribooksonline.com/videos/user-research-fundamentals/9781771373982/9781771373982-video213752
+
+Bacon, "Death to Personas! Long Live Personas!", https://www.slideshare.net/ebacon/death-to-personas-long-live-personas-presentation/
