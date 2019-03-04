@@ -11,3 +11,5 @@ Give Good UX, "The Easy Way to Enhance User Personas: Tips, Tricks and Two Free 
 Impact BND, "30 Buyer Persona Questions to Ask In Your 2019 Persona Interviews" (interview email template & methodolgy), https://www.impactbnd.com/blog/buyer-persona-questions-to-ask-in-your-persona-interviews
 
 Trew Marketing, "Buyer Personas: 8 Questions to Profile your Customer", https://www.trewmarketing.com/smartmarketingblog/best-practices/define-buyer-personas-content-planning-lead-nurturing
+
+Goltz, Shlomo, "Provisional Personas Workshop", https://www.slideshare.net/TheConartist/provisional-persona-workshop-10
