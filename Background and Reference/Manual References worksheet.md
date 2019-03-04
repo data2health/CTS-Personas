@@ -19,3 +19,5 @@ Ashida, et. al., "Interview Checklist", https://methods.18f.gov/interview-checkl
 Maier, "Build empathy with stakeholder interviews, parts I and II", https://18f.gsa.gov/2016/06/20/build-empathy-with-stakeholder-interviews-part-1-preparation/; https://18f.gsa.gov/2016/07/22/building-empathy-with-stakeholder-interviews-part-2-conversation/
 
 Portigal, "Interviewing Users", https://www.safaribooksonline.com/library/view/interviewing-users/9781457102851/
+
+Perfetti, "User Research Fundamentals for Designers", https://www.safaribooksonline.com/videos/user-research-fundamentals/9781771373982/9781771373982-video213752
