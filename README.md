@@ -40,11 +40,7 @@ See [team members page.](https://github.com/data2health/CTS-Personas/blob/master
 * User guide for employing the Personas with sample use cases
 * Bibliography of sources on the CTS workforce
 * Engagement and outreach to the CTSA hubs
-___________________________________________________
-## Get involved
-
-We encourage the community to get involved. To get involved, please [onboard using this form](http://bit.ly/cd2h-onboarding-form)
-___________________________________________
+______________________________________________________________________________________
 
 ## Working documents
 
