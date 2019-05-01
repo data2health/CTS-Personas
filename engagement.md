@@ -1,4 +1,4 @@
-# Welcome to the Personas project # 
+# Contributing to the Personas project # 
 
 Thanks for being interested in the work we are doing. We’re glad you’re here and look forward to your contributions. You don’t need to code to contribute to our project. At present, we are looking for your help in the following areas:
  
