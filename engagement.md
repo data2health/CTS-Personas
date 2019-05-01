@@ -2,7 +2,7 @@
 
 Thanks for being interested in the work we are doing. We’re glad you’re here and look forward to your contributions. You don’t need to code to contribute to our project. At present, we are looking for your help in the following areas:
  
-* Share [literature or resources about jobs in the CTSA](https://drive.google.com/drive/folders/1QRVwKfvjDNizvMrvWLkD-BHr2UMIeWzF).
+* Share [literature or resources about jobs in the CTSA](https://github.com/data2health/CTS-Personas/issues/25).
 * Read and comment on our Personas as they’re being created - details coming soon
 * [Feedback/brainstorming](https://github.com/data2health/CTS-Personas/issues/24). What else can we be doing with this project? Where would you like to see us focus? What do you want to help create? 
 
