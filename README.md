@@ -14,6 +14,9 @@ We propose to develop a CTS Persona Portfolio to represent the diverse roles in 
 ## Alignment to program objectives
 TODO see [here](https://github.com/data2health/roadmap/blob/master/cd2h-foa.md)
 
+## Want to work with us? Get involved!
+Please go [here](https://github.com/data2health/CTS-Personas/blob/master/engagement.md) to learn more about our needs, good first contributions, and more! We're excited to have you join us. 
+
 ## Contact Person
 
 | **Point person (github handle)**  | **Site** | **Program Director** |
