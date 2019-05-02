@@ -3,7 +3,6 @@
 ## Lead(s)
 Name | GitHub Handle | Site
 -- | -- | --
-Ammar Chaudhry | [informatics](https://github.com/achaudhry615/informatics) | COH
 Sara Gonzales | [saragon02](https://github.com/saragon02) | Northwestern
 
 ## Contributor(s)
@@ -11,6 +10,7 @@ Name | GitHub Handle | Site
 -- | -- | --
 Matt Carson | [carsonicator](https://github.com/carsonicator) | Northwestern
 Robin Champieux | [rchampieux](https://github.com/rchampieux) | OHSU
+Ammar Chaudhry | [informatics](https://github.com/achaudhry615/informatics) | COH
 Dave Eichmann | [eichmann](http://github.com/eichmann) | Iowa
 Harsha Ekanayake | [hpitawela](https://github.com/hpitawela) | Iowa
 Tricia Francis | [tricfran](http://github.com/tricfran) | JHU
