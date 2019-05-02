@@ -49,6 +49,7 @@ Sean Mooney | [sdmooney](http://github.com/sdmooney) | UW
 Nitin Parikh | [github.com](http://github.com) | UCDavisHealth
 Philip Payne | [prpayne5](http://github.com/prpayne5) | WashU
 Svetlana Rojevsky | [github.com](http://github.com) | Tufts
+Erica Rosemond | [rosemonde2](http://github.com/rosemonde2) | #N/A
 Eugene Sadhu | [eugsadhu](https://github.com/eugsadhu) | UIC
 Thomas Schaffter | [tschaffter](https://github.com/tschaffter) | Sage
 Pamela Shaw | [bioscibrarian](https://github.com/bioscibrarian) | Northwestern
