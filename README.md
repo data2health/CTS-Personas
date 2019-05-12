@@ -22,16 +22,15 @@ TODO see [here](https://github.com/data2health/roadmap/blob/master/cd2h-foa.md)
 
 ## Contact Person
 
-| **Point person (github handle)**  | **Site** | **Program Director** |
-| ---| --- | --- |
-| Sara Gonzales (@saragon02) | Northwestern | Melissa Haendel (@mellybelly)  |
+| **Point person (github handle)**  | **Site** | 
+| ---| --- | 
+| Sara Gonzales (@saragon02) | Northwestern | 
 
 ## Leads
 
 | **Lead(s) (github handle)**  | **Site** |
 | ---| --- |
 | Sara Gonzales (@saragon02) | Northwestern |
-| Kristi Holmes (@kristiholmes) | Northwestern |
 
 ## Team Members
 
