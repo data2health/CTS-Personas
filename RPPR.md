@@ -19,6 +19,13 @@ This project will encompass and describe the diversity of roles in the clinical 
 - Guidebook and sample use cases produced
 - Educational webinar for first-time profile users
 
+# Deliverables
+* Personas 1-pager template
+* Set of Persona 1-pagers, spanning the translational workforce
+* User guide for employing the Personas with sample use cases
+* Bibliography of sources on the CTS workforce
+* Engagement and outreach to the CTSA hubs
+
 # Timeline (monthly)
 - 3/1/19 Identify roles in the CTS landscape
 - 4/1/19 Choose elements for Persona templates
