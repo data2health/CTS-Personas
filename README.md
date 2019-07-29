@@ -46,6 +46,6 @@ ________________________________________________________________________________
 
 ## Working documents
 
-The project [Google Drive folder](https://drive.google.com/drive/folders/1LaT73sENCsZ3Y9IaeNSfsLseKxj3fmdv?usp=sharing) is accessible to onboarded participants.
+The project [Google Drive folder](https://drive.google.com/drive/folders/1-mNCKZ7IbnBxRySPNAMPFrjoeG9C4ObW?usp=sharing) is accessible to onboarded participants.
 _____________________
 
