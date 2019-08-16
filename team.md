@@ -8,6 +8,7 @@ Sara Gonzales | [saragon02](https://github.com/saragon02) | Northwestern
 ## Contributor(s)
 Name | GitHub Handle | Site
 -- | -- | --
+Michael Bales | [michaelbales1](http://github.com/michaelbales1) | Cornell
 Matt Carson | [carsonicator](https://github.com/carsonicator) | Northwestern
 Robin Champieux | [rchampieux](https://github.com/rchampieux) | OHSU
 Ammar Chaudhry | [informatics](https://github.com/achaudhry615/informatics) | COH
@@ -37,12 +38,15 @@ Name | GitHub Handle | Site
 Tom Campion | [github.com](http://github.com) | Cornell
 Christopher Chute | [cgchute](https://github.com/cgchute) | JHU
 Connor Cook | [cgcook](https://github.com/cgcook) | OHSU
+Catherine  Craven | [github.com](http://github.com) | Icahn
 David Ellison | [dhekidney](http://github.com/dhekidney) | OHSU
 Shahim Essaid | [ShahimEssaid](http://github.com/ShahimEssaid) | OHSU
 Joseph Finkelstein | [finkeljOMOP](http://github.com/finkeljOMOP) | Icahn
 Tamas Gal | [tsgal](https://github.com/tsgal) | CCTR
+Randy Grout | [randallgrout](https://github.com/randallgrout) | Indiana
 Diane Keogh | [gibhub.com](http://gibhub.com) | Harvard
 Russ Lackey | [rulackey](https://github.com/rulackey) | CLIC
+Laura Paglione | [lpaglione](https://github.com/lpaglione) | Spherical
 Nitin Parikh | [github.com](http://github.com) | UCDavisHealth
 Philip Payne | [prpayne5](http://github.com/prpayne5) | WashU
 Rose Relevo | [RoseRelevo](https://github.com/RoseRelevo) | OHSU
@@ -58,5 +62,6 @@ Alfred Vitale | [github.com](http://github.com) | URMC
 Sam Volchenboum | [volcs0](https://github.com/volcs0) | UChicago
 John Wilbanks | [wilbanksjohn](http://github.com/wilbanksjohn) | Sage
 DuWayne Willett | [duwaynewillett](https://github.com/duwaynewillett) | UTSouthwestern
+Elizabeth Zak | [ezak101](https://github.com/ezak101) | Iowa
 Xinzhi Zhang | [NCATS2019](https://github.com/NCATS2019) | NCATS
 
