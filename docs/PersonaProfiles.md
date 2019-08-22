@@ -1,4 +1,4 @@
- * [Basic Scientist]([slideshare id=165668598&doc=basicscientistpersonaprofile-190822212440&type=d])
+ * [Basic Scientist](https://www.slideshare.net/secret/7c1lpsKAbnpb8g)
  * Biostatistician
  * Clinical Research Center Administrator
  * Clinical Research Coordinator
