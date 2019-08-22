@@ -1,7 +1,4 @@
- * [Basic Scientist](<video controls autoplay preload="none" style="width:1000px;">
-<source src="docs/BasicScientist_PersonaProfile.mp4" type="video/mp4" />
-<p>Your browser does not support HTML5 Video.</p>
-</video>)
+ * [Basic Scientist](<video controls autoplay preload="none" style="width:1000px;"><source src="docs/BasicScientist_PersonaProfile.mp4" type="video/mp4" /></video>)
  * Biostatistician
  * Clinical Research Center Administrator
  * Clinical Research Coordinator
