@@ -1,4 +1,7 @@
- * [Basic Scientist](https://www.slideshare.net/secret/7c1lpsKAbnpb8g)
+ * [Basic Scientist](<video controls autoplay preload="none" style="width:1000px;">
+<source src="docs/BasicScientist_PersonaProfile.mp4" type="video/mp4" />
+<p>Your browser does not support HTML5 Video.</p>
+</video>)
  * Biostatistician
  * Clinical Research Center Administrator
  * Clinical Research Coordinator
