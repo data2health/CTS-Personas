@@ -46,7 +46,7 @@ Tamas Gal | [tsgal](https://github.com/tsgal) | CCTR
 Randy Grout | [randallgrout](https://github.com/randallgrout) | Indiana
 Diane Keogh | [gibhub.com](http://gibhub.com) | Harvard
 Russ Lackey | [rulackey](https://github.com/rulackey) | CLIC
-Diego Mazzotti | [mazzottidr](https://github.com/mazzottidr) | #N/A
+Diego Mazzotti | [mazzottidr](https://github.com/mazzottidr) | UPenn
 Laura Paglione | [lpaglione](https://github.com/lpaglione) | Spherical
 Nitin Parikh | [github.com](http://github.com) | UCDavisHealth
 Philip Payne | [prpayne5](http://github.com/prpayne5) | WashU
