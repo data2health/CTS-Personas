@@ -1,4 +1,13 @@
 # CTS-Personas
+
+### Welcome!
+
+We're glad you came by to check out CTS-Personas! We welcome input and feedback from anyone interested in our project. There are several ways to contribute:
+
+* The [#personas](https://cd2h.slack.com/messages/CFFSFQJ1W) channel on the [CD2H Slack](https://cd2h.slack.com/messages) is the place to reach out to the Personas team in CD2H.
+* More details about engaging with the Personas team can be found [here](https://github.com/data2health/CTS-Personas/blob/master/engagement.md).
+* Contact [Sara](https://github.com/saragon02) if you have any questions about our work.
+
 ## Translational workforce roles and persona profiles
 
 This project will encompass and describe the diversity of roles in the clinical and translational science ecosystem. By identifying CTS roles, establishing a persona to represent each role, and providing each persona with a profile, we will document the needs, motivations, goals, and pain points in CTS roles that will be used to inform software development, use cases, teaching materials, and more for the CTSA community. 
