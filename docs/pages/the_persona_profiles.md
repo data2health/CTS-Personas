@@ -4,7 +4,7 @@
  * Clinical Research Coordinator
  * Clinician/Researcher
  * Community-engaged Faculty Investigator
- * Data Analyst
+ * ![Data Analyst](./assets/DataAnalyst_PersonaProfile.pdf)
  * Developer
  * K Scholar
  * Lay Patient Navigator
