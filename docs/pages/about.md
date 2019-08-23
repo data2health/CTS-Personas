@@ -1,4 +1,3 @@
----
 ## About
 
 # Translational workforce roles and persona profiles
