@@ -2,6 +2,7 @@ CTS Personas, a project of the National Center for Data to Health (Grant U24TR00
 
 * [About](pages/about.md)
 * [The Persona Profiles](pages/the_persona_profiles.md)
+* {Supplemental Information: Software Use]([pages/software_use.md)
 * [User Guidebook](pages/user_guidebook.md)
 * [Sample Use Cases](pages/sample_use_cases.md)
 * [Resources](pages/resources.md)
