@@ -1,5 +1,3 @@
----
----
 ## Translational workforce roles and persona profiles
 
 This project encompasses and describes the diversity of roles in the clinical and translational (CTS) science ecosystem. Twelve employee roles in CTS, and two patients, have been provided with a profile documenting needs, motivations, goals, and pain points. These insights can be employed to inform software development, use cases, teaching materials, and more for the CTSA community. 
