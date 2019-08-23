@@ -1,1 +1,12 @@
 theme: jekyll-theme-tactile
+relative_links:
+  enabled: true
+  collections: true
+include: 
+  - ABOUT.md
+  - THE_PERSONA_PROFILES.md
+  - USER_GUIDEBOOK.md
+  - SAMPLE_USE_CASES.md
+  - RESOURCES.md
+  - FAQS.md
+  - PROVIDE_FEEDBACK.md
