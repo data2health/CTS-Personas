@@ -1,7 +1,7 @@
  * [Basic Scientist](basicscientist_supplement.md)
  * [Biostatistician](biostatistician_supplement.md)
  * [Clinical Research Center Administrator](centeradministrator_supplement.md)
- * Clinical Research Coordinator
+ * [Clinical Research Coordinator](clinicalresearchcoordinator_supplement.md)
  * Clinician/Researcher
  * Community-engaged Faculty Investigator
  * Data Analyst
