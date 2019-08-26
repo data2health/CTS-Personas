@@ -1,4 +1,4 @@
- * Basic Scientist
+ * [Basic Scientist](/BasicScientist_PersonaProfile.pdf)
  * Biostatistician
  * Clinical Research Center Administrator
  * Clinical Research Coordinator
