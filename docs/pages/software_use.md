@@ -7,7 +7,7 @@
  * [Data Analyst](dataanalyst_supplement.md)
  * [Developer](developer_supplement.md)
  * [K Scholar](kscholar_supplement.md)
- * Lay Patient Navigator
+ * [Lay Patient Navigator](laypatientnavigator_supplement.md)
  * Librarian
  * Research Administrator
 
