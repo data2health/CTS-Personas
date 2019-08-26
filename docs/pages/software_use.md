@@ -6,7 +6,7 @@
  * [Community-engaged Faculty Investigator](communityengagedfacultyinvestigator_supplement.md)
  * [Data Analyst](dataanalyst_supplement.md)
  * [Developer](developer_supplement.md)
- * K Scholar
+ * [K Scholar](kscholar_supplement.md)
  * Lay Patient Navigator
  * Librarian
  * Research Administrator
