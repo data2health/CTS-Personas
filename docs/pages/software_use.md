@@ -1,5 +1,5 @@
  * [Basic Scientist](basicscientist_supplement.md)
- * Biostatistician
+ * [Biostatistician](biostatistician_supplement.md)
  * Clinical Research Center Administrator
  * Clinical Research Coordinator
  * Clinician/Researcher
