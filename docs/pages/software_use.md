@@ -9,6 +9,6 @@
  * [K Scholar](kscholar_supplement.md)
  * [Lay Patient Navigator](laypatientnavigator_supplement.md)
  * [Librarian](librarian_supplement.md)
- * Research Administrator
+ * [Research Administrator](researchadministrator_supplement.md)
 
 ##### Back to [home](https://data2health.github.io/CTS-Personas/)
