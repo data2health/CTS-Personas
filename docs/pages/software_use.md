@@ -5,7 +5,7 @@
  * [Clinician/Researcher](clinicianresearcher_supplement.md)
  * [Community-engaged Faculty Investigator](communityengagedfacultyinvestigator_supplement.md)
  * [Data Analyst](dataanalyst_supplement.md)
- * Developer
+ * [Developer](developer_supplement.md)
  * K Scholar
  * Lay Patient Navigator
  * Librarian
