@@ -3,7 +3,7 @@
  * [Clinical Research Center Administrator](centeradministrator_supplement.md)
  * [Clinical Research Coordinator](clinicalresearchcoordinator_supplement.md)
  * [Clinician/Researcher](clinicianresearcher_supplement.md)
- * [Community-engaged Faculty Investigator](communityengagedfactulyinvestigator_supplement.md)
+ * [Community-engaged Faculty Investigator](communityengagedfacultyinvestigator_supplement.md)
  * Data Analyst
  * Developer
  * K Scholar
