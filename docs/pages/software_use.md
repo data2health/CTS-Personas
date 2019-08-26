@@ -4,7 +4,7 @@
  * [Clinical Research Coordinator](clinicalresearchcoordinator_supplement.md)
  * [Clinician/Researcher](clinicianresearcher_supplement.md)
  * [Community-engaged Faculty Investigator](communityengagedfacultyinvestigator_supplement.md)
- * Data Analyst
+ * [Data Analyst](dataanalyst_supplement.md)
  * Developer
  * K Scholar
  * Lay Patient Navigator
