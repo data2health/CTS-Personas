@@ -4,7 +4,7 @@
  * Clinical Research Coordinator
  * Clinician/Researcher
  * Community-engaged Faculty Investigator
- * [Data Analyst](<a href="/assets/DataAnalyst_PersonaProfile.pdf"</a>)
+ * [Data Analyst]((https://github.com/data2health/CTS-Personas/blob/master/docs/assets/DataAnalyst_PersonaProfile.pdf))
  * Developer
  * K Scholar
  * Lay Patient Navigator
