@@ -1,4 +1,4 @@
- * [Basic Scientist](/BasicScientist_PersonaProfile.pdf)
+ * [Basic Scientist](https://github.com/data2health/CTS-Personas/blob/master/docs/pages/BasicScientist_PersonaProfile.pdf)
  * Biostatistician
  * Clinical Research Center Administrator
  * Clinical Research Coordinator
