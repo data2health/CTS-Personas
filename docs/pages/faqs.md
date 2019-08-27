@@ -1,4 +1,6 @@
 ---
+## Frequently Asked Questions
+
 ### Where can I find the project's documentation?
 All project documentation is on the [CTS_Personas GitHub site](https://github.com/data2health/CTS-Personas)
 
