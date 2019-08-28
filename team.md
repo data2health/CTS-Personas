@@ -44,6 +44,7 @@ Shahim Essaid | [ShahimEssaid](http://github.com/ShahimEssaid) | OHSU
 Joseph Finkelstein | [finkeljOMOP](http://github.com/finkeljOMOP) | Icahn
 Tamas Gal | [tsgal](https://github.com/tsgal) | CCTR
 Randy Grout | [randallgrout](https://github.com/randallgrout) | Indiana
+Steve Johnson | [github.com](http://github.com) | NYU
 Diane Keogh | [gibhub.com](http://gibhub.com) | Harvard
 Russ Lackey | [rulackey](https://github.com/rulackey) | CLIC
 Diego Mazzotti | [mazzottidr](https://github.com/mazzottidr) | UPenn
