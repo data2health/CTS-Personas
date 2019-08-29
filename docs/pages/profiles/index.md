@@ -1,6 +1,8 @@
  ---
 ## The Persona Profiles
 
+### Click on each role to view and download their profile, and to see a chart outlining the role's software usage.
+
  * [Basic Scientist - Arthur "Art" Rosen](basic_scientist.md)
  * [Biostatistician - Lindsay D 'Amato](biostatistician.md)
  * [Clinical Research Center Administrator - Carmen Lukovich](clinical_research_center_administrator.md)
