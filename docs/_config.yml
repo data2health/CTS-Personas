@@ -1,1 +1,10 @@
 theme: jekyll-theme-minimal
+relative_links:
+  enabled: true
+  collections: true
+kramdown:
+  input: GFM
+  hard_wrap: false
+plugins:
+  - "jekyll-github-metadata"
+  - "jekyll-relative-links"
