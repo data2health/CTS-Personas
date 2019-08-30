@@ -1,5 +1,5 @@
 ---
-### Biostatistician: Lindsay D 'Amato
+### Biostatistician: Lindsay D'Amato
 #### Profile
 
 Coming soon!
