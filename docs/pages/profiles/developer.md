@@ -1,5 +1,11 @@
 ---
-### Developer: Software usage
+### Developer: Eli Daniels
+#### Profile
+
+Coming soon!
+<br>
+
+#### Software usage
 
 Eli’s skills are in scripts and coding. He is highly experienced in various programming languages including Ruby (mainly using the Rails framework), Python, Java, JavaScript, and associated tools such as Angular, React, DataGrip, RubyMine, Jenkins, and Postgres. He uses GitHub for version control, Trello for project management, and Slack, the Microsoft Office Suite, and video conferencing software for collaboration.
 
