@@ -8,4 +8,4 @@ CTS Personas, a project of the National Center for Data to Health (Grant U24TR00
 * [Provide Feedback](pages/provide_feedback.md)
 
 
-![](../images/CD2H_color_logo.png)
+![](./images/CD2H_color_logo.png)
