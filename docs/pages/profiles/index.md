@@ -7,7 +7,7 @@ Click on each role to view and download their profile, and to see a chart outlin
  * [Biostatistician - Lindsay D'Amato](biostatistician.md)
  * [Clinical Research Center Administrator - Carmen Lukovich](clinical_research_center_administrator.md)
  * [Clinical Research Coordinator - Lucy Silonga](clinical_research_coordinator.md)
- * [Community-engaged Faculty Investigator - Greta Oftedal](community_engaged_faculty_investigator.md)
+ * [Community-engaged Researcher - Greta Oftedal](community_engaged_researcher.md)
  * [Data Analyst - Jim Blair](data_analyst.md)
  * [Developer - Eli Daniels](developer.md)
  * [K Scholar - Melody Zainal](k_scholar.md)
