@@ -1,5 +1,5 @@
 ---
-### Community-Engaged Faculty Investigator: Greta Oftedal
+### Community-Engaged Researcher: Greta Oftedal
 #### Profile
 
 Coming soon!
