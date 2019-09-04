@@ -12,7 +12,7 @@ Click on each role to view and download their profile, and to see a chart outlin
  * [Data Analyst - Jim Blair](data_analyst.md)
  * [Developer - Eli Daniels](developer.md)
  * [K Scholar - Melody Zainal](k_scholar.md)
- * [Lay Patient Navigator - Alice Hougen](lay_patient_navigator.md)
+ * [Lay Patient Navigator - Alice Hougen](patient_navigator.md)
  * [Librarian - Rachael Pereira](librarian.md)
  * [Research Administrator - Irene Bell](research_administrator.md)
  * [Patient: Emily Trinidad](patient_emily_trinidad.md)
