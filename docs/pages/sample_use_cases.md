@@ -1,3 +1,8 @@
+Use Case 1: End to End Patient Platform
+
+Use Case 2: Clinical Research Center Trainings
+
+Use Case 3: Building the Software Development Team
 
 ##### Back to [home](https://data2health.github.io/CTS-Personas/)
 
