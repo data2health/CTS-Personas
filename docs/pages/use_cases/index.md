@@ -4,7 +4,7 @@
 
 [Use Case 2: Clinical Research Center Trainings](use_case_two.md)
 
-Use Case 3: Building the Software Development Team
+[Use Case 3: Building the Software Development Team](use_case_three.md)
 
 ##### Back to [home](https://data2health.github.io/CTS-Personas/)
 
