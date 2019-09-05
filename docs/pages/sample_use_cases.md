@@ -1,3 +1,5 @@
+## Sample Use Cases
+
 Use Case 1: End to End Patient Platform
 
 Use Case 2: Clinical Research Center Trainings
