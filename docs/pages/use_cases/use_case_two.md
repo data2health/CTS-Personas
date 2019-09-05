@@ -1,0 +1,6 @@
+---
+### Sample Use Case 2: End to End Patient Platform
+
+<embed src="https://docs.google.com/viewer?url=https://github.com/data2health/CTS-Personas/raw/master/docs/assets/UseCase2_ClinicalResearchCenterTrainings.pdf&embedded=true" style="width:100%; height:700px;" frameborder="0" />
+
+##### Back to [Sample Use Cases](index.md)
