@@ -2,7 +2,7 @@
 
 [Use Case 1: End to End Patient Platform](use_case_one.md)
 
-Use Case 2: Clinical Research Center Trainings
+Use Case 2: Clinical Research Center Trainings(use_case_two.md)
 
 Use Case 3: Building the Software Development Team
 
