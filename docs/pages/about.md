@@ -15,13 +15,12 @@ The CTS personas reflect the spectrum of translation and the diversity of roles 
 ### Meet the Team
 
 | Northwestern University | Children's Hospital of Philadelphia | Oregon Health & Science University | Washington University |
-| _______________________ | ___________________________________ | __________________________________ | _____________________ |
-| Sara Gonzales           | Bailey Farrow                       | Robin Champieux                    | Po-Yin Yen            |
-| Karen Gutzman           | Allison Heath                       |                                    |                       |
-| Kristi Holmes           | Meen Chul Kim                       |                                    |                       |
-| Lisa O'Keefe            | Deanne Taylor                       |                                    |                       |
-| Annie Wescott           |                                     |                                    |                       | 
-
+| --- | --- | --- | --- |
+| Sara Gonzales | Bailey Farrow | Robin Champieux | Po-Yin Yen |
+| Karen Gutzman | Allison Heath |      |        |
+| Kristi Holmes | Meen Chul Kim |      |        |
+| Lisa O'Keefe | Deanne Taylor |     |       |
+| Annie Wescott |        |    |     |                                   
 
 ##### Back to [home](https://data2health.github.io/CTS-Personas/)
 
