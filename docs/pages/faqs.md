@@ -13,6 +13,6 @@ Submit an [Issue](https://github.com/data2health/CTS-Personas/issues) on our Git
 ### How can I contribute a use case to the Personas project?
 We're eager to hear your use cases for the Personas! Submit use cases via an [Issue](https://github.com/data2health/CTS-Personas/issues) on our GitHub site
 
-##### Back to [home](https://data2health.github.io/CTS-Personas/)
+#### Back to [home](https://data2health.github.io/CTS-Personas/)
 
-###### A project of the National Center for Data to Health (Grant U24TR002306)
+##### A project of the National Center for Data to Health (Grant U24TR002306)
