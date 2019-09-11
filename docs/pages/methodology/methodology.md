@@ -71,7 +71,7 @@ Keep your audience’s needs in mind when writing and formatting the final profi
 
 #### Step 5: Best Practices
 
-The CTS-Personas team is eager to learn about your suggestions for making persona profiles better! Submit feedback at: https://github.com/data2health/CTS-Personas/issues 
+The CTS-Personas team is eager to learn about your suggestions for making persona profiles better! Submit feedback on our main [GitHub site](https://github.com/data2health/CTS-Personas/issues)
 
 For additional advice and best practices on persona creation from the world of user experience design (UX), where personas originated, as well as Usability.gov, please see the following sources:
 
