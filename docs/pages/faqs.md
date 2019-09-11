@@ -14,7 +14,7 @@ Submit an [Issue](https://github.com/data2health/CTS-Personas/issues) on our Git
 We're eager to hear your use cases for the Personas! Submit use cases via an [Issue](https://github.com/data2health/CTS-Personas/issues) on our GitHub site
 
 ### I don't see my postion among the personas. Why was my position left out?
-The scope of CTS-Personas was the production of one dozen profiles of roles in clinical and translational science. Though the six-month project timeframe preculded producing additional profiles, we encourage anyone with an interest in creating additional CTS profiles to reference our [Methodology](./blob/master/docs/pages/methodology.md) and begin their own journey of Persona creation. 
+The scope of CTS-Personas was the production of one dozen profiles of roles in clinical and translational science. Though the six-month project timeframe preculded producing additional profiles, we encourage anyone with an interest in creating additional CTS profiles to reference our [Methodology](methodology.md) and begin their own journey of Persona creation. 
 
 #### Back to [home](https://data2health.github.io/CTS-Personas/)
 
