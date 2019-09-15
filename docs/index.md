@@ -1,4 +1,6 @@
-CTS Personas, a project of the National Center for Data to Health (Grant U24TR002306), is an effort to create Persona profiles representing roles across the ecosystem of translational research: Basic Research → Pre-Clinical Research → Clinical Research → Clinical Implementation → Public Health. These profiles are intended for use for the CTSA community and beyond, to assist those developing software projects, educational and communication materials, and more.
+CTS Personas, a project of the National Center for Data to Health (Grant U24TR002306), offers Persona profiles representing roles across the ecosystem of translational research. These profiles are intended for use for the CTSA Program community and beyond to assist those who develop resources and services for the translational workforce, such as software tools, training workshops, communication materials, and more.
+
+**Basic Research → Pre-Clinical Research → Clinical Research → Clinical Implementation → Public Health**
 
 * [About](pages/about.md)
 * [The Persona Profiles](pages/profiles/index.md)
