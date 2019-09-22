@@ -19,8 +19,9 @@ The CTS personas reflect the spectrum of translation and the diversity of roles 
 | Sara Gonzales | Bailey Farrow | Robin Champieux | Po-Yin Yen |
 | Karen Gutzman | Allison Heath |      |        |
 | Lisa O'Keefe | Meen Chul Kim |      |        |
-| Annie Wescott | Deanne Taylor |     |       |
-| Kristi Holmes |        |    |     |                                   
+| Guillaume Viger | Deanne Taylor |     |       |
+| Annie Wescott |        |    |     |    
+| Kristi Holmes |        |    |     |  
 
 #### Back to [home](https://data2health.github.io/CTS-Personas/)
 
