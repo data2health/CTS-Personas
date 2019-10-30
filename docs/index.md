@@ -9,5 +9,7 @@ CTS Personas, a project of the National Center for Data to Health (Grant U24TR00
 * [FAQs](pages/faqs.md)
 * [Provide Feedback](pages/provide_feedback.md)
 
+<video src="CTS_PersonasVideo.mp4" poster="PersonasVideoPoster.jpg" width="320" height="200" controls preload></video>
+
 
 ![](./images/CD2H_color_logo.png)
