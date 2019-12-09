@@ -4,7 +4,7 @@
 
 We're glad you came by to check out CTS-Personas! We welcome input and feedback from anyone interested in our project. There are several ways to contribute:
 
-* Check out the complete [Personas, Guidebook, and use cases](https://data2health.github.io/CTS-Personas/)
+* Check out the complete [Personas, Guidebook, and Use cases](https://data2health.github.io/CTS-Personas/)
 * The [#personas](https://cd2h.slack.com/messages/CFFSFQJ1W) channel on the [CD2H Slack](https://cd2h.slack.com/messages) is the place to reach out to the Personas team in CD2H.
 * More details about engaging with the Personas team can be found [here](https://github.com/data2health/CTS-Personas/blob/master/engagement.md).
 * Contact [Sara](https://github.com/saragon02) if you have any questions about our work.
