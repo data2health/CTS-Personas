@@ -1,4 +1,4 @@
-# CTS-Personas
+# CTS-Personas (Phase 2)
 
 ### Welcome!
 
