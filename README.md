@@ -2,7 +2,7 @@
 
 ### Welcome!
 
-CTS-Personas was a CD2H Phase 2 Project. While we are no longer actively working on this, we're still glad you're here and offer the following resources. 
+CTS-Personas was a CD2H Phase 2 Project. While we have wrapped up our work for now, we're still glad you're here and offer the following resources. 
 
 * Check out the complete [Personas, Guidebook, and Use cases](https://data2health.github.io/CTS-Personas/)
 * The [#personas](https://cd2h.slack.com/messages/CFFSFQJ1W) channel on the [CD2H Slack](https://cd2h.slack.com/messages) is the place to reach out to the Personas team in CD2H.
