@@ -22,7 +22,7 @@ The concept of the translational workforce is an important one and plays a promi
 We developed a CTS Persona Portfolio to represent the diverse roles in CTS. The CTS personas reflect the spectrum of translation and the diversity of roles required for successful translation at the local hub level and span across the translational signposts as defined by NCATS of Basic Research →  Pre-Clinical Research → Clinical Research → Clinical Implementation → Public Health. By compiling lists of CTS position descriptions and roles, completing research elucidating the needs, motivations, goals, technological proficiency and pain points of those occupying these roles, and condensing the research into easy to understand, one-page Personas profiles, we hope our work assists and informs CTSA program sites, partner sites, and beyond in developing sofware solutions, training and engagement materials, and more.
 
 ## Alignment to program objectives
-TODO see [here](https://github.com/data2health/roadmap/blob/master/cd2h-foa.md)
+Work complete see [here](https://github.com/data2health/roadmap/blob/master/cd2h-foa.md)
 
 ## Want to work with us? Get involved!
 * Please go [here](https://github.com/data2health/CTS-Personas/blob/master/engagement.md) to learn more about our needs, get on board, how to make good first contributions, and more! We're excited to have you join us. 
