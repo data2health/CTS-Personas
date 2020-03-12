@@ -2,7 +2,7 @@
 
 ### Welcome!
 
-We're glad you came by to check out CTS-Personas! We welcome input and feedback from anyone interested in our project. There are several ways to contribute:
+CTS-Personas was a CD2H Phase 2 Project. While we are no longer actively working on this, we're still glad you're here and offer the following resources. 
 
 * Check out the complete [Personas, Guidebook, and Use cases](https://data2health.github.io/CTS-Personas/)
 * The [#personas](https://cd2h.slack.com/messages/CFFSFQJ1W) channel on the [CD2H Slack](https://cd2h.slack.com/messages) is the place to reach out to the Personas team in CD2H.
@@ -11,7 +11,7 @@ We're glad you came by to check out CTS-Personas! We welcome input and feedback 
 
 ## Translational workforce roles and persona profiles
 
-This project will encompass and describe the diversity of roles in the clinical and translational science ecosystem. By identifying CTS roles, establishing a persona to represent each role, and providing each persona with a profile, we will document the needs, motivations, goals, and pain points in CTS roles that will be used to inform software development, use cases, teaching materials, and more for the CTSA community. 
+This project encompasses and describes the diversity of roles in the clinical and translational science ecosystem. By identifying CTS roles, establishing a persona to represent each role, and providing each persona with a profile, we have documented the needs, motivations, goals, and pain points in CTS roles that can be used to inform software development, use cases, teaching materials, and more for the CTSA community. 
 _______________
 
 ## Problem Statement
@@ -19,7 +19,7 @@ _______________
 The concept of the translational workforce is an important one and plays a prominent role in the work and communication of CTSA Program hubs, NCATS, and beyond. However, to date, a defined list of translational workforce roles in CTS does not exist. Here, we aim to better define the specific roles included in the translational workforce, establish a set of personas to reflect those roles, construct a portfolio of these persona profiles, and disseminate broadly to the CTSA program and to the CD2H for use in development of use cases, communications, training materials, and more.
 
 ## Project Description 
-We propose to develop a CTS Persona Portfolio to represent the diverse roles in CTS. The CTS personas will reflect the spectrum of translation and the diversity of roles required for successful translation at the local hub level and span across the translational signposts as defined by NCATS of Basic Research →  Pre-Clinical Research → Clinical Research → Clinical Implementation → Public Health. By compiling lists of CTS position descriptions and roles, completing research elucidating the needs, motivations, goals, technological proficiency and pain points of those occupying these roles, and condensing the research into easy to understand, one-page Personas profiles, we hope to assist and inform CTSA program sites, partner sites, and beyond in developing sofware solutions, training and engagement materials, and more.
+We developed a CTS Persona Portfolio to represent the diverse roles in CTS. The CTS personas reflect the spectrum of translation and the diversity of roles required for successful translation at the local hub level and span across the translational signposts as defined by NCATS of Basic Research →  Pre-Clinical Research → Clinical Research → Clinical Implementation → Public Health. By compiling lists of CTS position descriptions and roles, completing research elucidating the needs, motivations, goals, technological proficiency and pain points of those occupying these roles, and condensing the research into easy to understand, one-page Personas profiles, we hope our work assists and informs CTSA program sites, partner sites, and beyond in developing sofware solutions, training and engagement materials, and more.
 
 ## Alignment to program objectives
 TODO see [here](https://github.com/data2health/roadmap/blob/master/cd2h-foa.md)
